@@ -1,0 +1,20 @@
+(all dictionary words and names 8+
+all dictionary words and names 7+ w/ 1,2,3,4,5,6,7,8,9
+all dictionary words and names 6+ w/ 12, 85-14
+all dictionary words and names 5+ w/ 123,333,555,666,777,007
+all dictionary words and names 4+ w/ 1985 - 2014
+
+all 4 letter words * all 4 letter words w/ 1
+all 3 letter words * all 5 letter words w/ 1
+all 3 letter words * all 4 letter words + 1,2,3,4,5,6,7,8,9
+all 5 letter words * all 3 letter words w/ 1
+
+(the above list with first letter capital)
+
+both above lists with o=0,a=@,e=3, 
+
+phone number list 
+
+
+
+
